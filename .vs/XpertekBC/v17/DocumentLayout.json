@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\XpertekBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\dataacces\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|solutionrelative:dataacces\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED681D5B-2ABB-4BCA-9A61-C4DFEB15F3E5}|Services\\Services.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED681D5B-2ABB-4BCA-9A61-C4DFEB15F3E5}|Services\\Services.csproj|solutionrelative:services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|solutionrelative:models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\dataacces\\acme\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|solutionrelative:dataacces\\acme\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD9EFB5-6E7F-4F76-8F3E-02CCE9EA63F8}|XperTec_ACME\\XperTec_ACME.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\xpertec_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD9EFB5-6E7F-4F76-8F3E-02CCE9EA63F8}|XperTec_ACME\\XperTec_ACME.csproj|solutionrelative:xpertec_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED681D5B-2ABB-4BCA-9A61-C4DFEB15F3E5}|Services\\Services.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED681D5B-2ABB-4BCA-9A61-C4DFEB15F3E5}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\dataacces\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EB99FAB-A6FB-4153-9258-2D558EA896C7}|DataAcces\\DataAccess.csproj|solutionrelative:dataacces\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|c:\\users\\andre\\source\\repos\\xpertekbc\\models\\acme\\tipoempresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4760A847-EB0C-4FDA-885B-A98CDD1340CB}|Models\\Models.csproj|solutionrelative:models\\acme\\tipoempresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAcces\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\DataAccess.csproj",
+              "RelativeToolTip": "DataAcces\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T02:33:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T02:29:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T02:29:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\XperTec_ACME\\Program.cs",
+              "RelativeDocumentMoniker": "XperTec_ACME\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\XperTec_ACME\\Program.cs",
+              "RelativeToolTip": "XperTec_ACME\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:21:18.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Services\\ACME\\EmpresaService.cs",
+              "RelativeDocumentMoniker": "Services\\ACME\\EmpresaService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Services\\ACME\\EmpresaService.cs",
+              "RelativeToolTip": "Services\\ACME\\EmpresaService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:26:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaDA.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\ACME\\EmpresaDA.cs",
+              "RelativeDocumentMoniker": "DataAcces\\ACME\\EmpresaDA.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\ACME\\EmpresaDA.cs",
+              "RelativeToolTip": "DataAcces\\ACME\\EmpresaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:52:22.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\ACME\\Conexion.cs",
+              "RelativeDocumentMoniker": "DataAcces\\ACME\\Conexion.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\DataAcces\\ACME\\Conexion.cs",
+              "RelativeToolTip": "DataAcces\\ACME\\Conexion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:59.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeDocumentMoniker": "Models\\ACME\\EmpresaEntidad.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeToolTip": "Models\\ACME\\EmpresaEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:09:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoEmpresaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
+              "RelativeDocumentMoniker": "Models\\ACME\\TipoEmpresaEntidad.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\XpertekBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
+              "RelativeToolTip": "Models\\ACME\\TipoEmpresaEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:03:51.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
